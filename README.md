@@ -13,7 +13,7 @@ junit-5
       the  callback notifications to manage our application context
     ```
 
-2.  ** @SpringBootTest   **
+2.  **@SpringBootTest**
 
  ```
       It is  used to test any testClass to integrate in
@@ -23,7 +23,7 @@ junit-5
 
     ```
 
-3.  ** @AutoConfigureMockMvc   **
+3.  **@AutoConfigureMockMvc**
 
  ```
         It enables the automatic configurations of a new MockMvc
@@ -31,7 +31,7 @@ junit-5
     ```
 
 
-4.  ** @MockBean   **
+4.  **@MockBean**
 
  ```
          It is defined in the spring boot test classes, and creates
@@ -39,7 +39,7 @@ junit-5
          using ** MOCKITO **
     ```
 
-5.  ** @MockBean   **
+5.  **@MockBean**
 
  ```
          It is defined in the spring boot test classes, and creates
