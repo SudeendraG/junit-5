@@ -10,8 +10,7 @@ junit-5
 
  ```sh
       It is similar to Runners in Junit 5 , Extensions Receives
-      the  callback notifications to manage our application context
-        ```
+      the  callback notifications to manage our application context```
 
 2.  **@SpringBootTest**
 
@@ -19,15 +18,13 @@ junit-5
       It is  used to test any testClass to integrate in
        spring boot application, It Searches the class path
        to find the spring annotated beans including configuration
-       classes
-    ```
+       classes```
 
 3.  **@AutoConfigureMockMvc**
 
  ```sh
         It enables the automatic configurations of a new MockMvc
-        Instance
-    ```
+        Instance```
 
 
 
@@ -37,5 +34,4 @@ junit-5
  ```sh
          It is defined in the spring boot test classes, and creates
          the mock implementation of product service
-         using ** MOCKITO **
-    ```
+         using ** MOCKITO ** ```
