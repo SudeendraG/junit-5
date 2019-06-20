@@ -1,4 +1,4 @@
-package com.sudeendra;
+package com.sudeendra.basic;
 
 public class MathUtils {
 
