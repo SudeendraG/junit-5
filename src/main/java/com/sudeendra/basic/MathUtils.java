@@ -1,5 +1,8 @@
 package com.sudeendra.basic;
 
+/**
+ * @author Sudeendra
+ */
 public class MathUtils {
 
 	public int add(int a, int b) {
