@@ -11,8 +11,7 @@ junit-5
  ```sh
       It is similar to Runners in Junit 5 , Extensions Receives
       the  callback notifications to manage our application context
-      
-    ```
+        ```
 
 2.  **@SpringBootTest**
 
@@ -21,7 +20,6 @@ junit-5
        spring boot application, It Searches the class path
        to find the spring annotated beans including configuration
        classes
-
     ```
 
 3.  **@AutoConfigureMockMvc**
