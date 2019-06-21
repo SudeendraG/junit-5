@@ -20,11 +20,11 @@ junit-5
        spring boot application, It Searches the class path
        to find the spring annotated beans including configuration
        classes
-       ```
+      ```
 
 3.  **@AutoConfigureMockMvc**
 
-         ```sh
+        ```sh
         It enables the automatic configurations of a new MockMvc
         Instance
         ```
@@ -38,4 +38,4 @@ junit-5
          It is defined in the spring boot test classes, and creates
          the mock implementation of product service
          using ** MOCKITO ** 
-         ```
+        ```
