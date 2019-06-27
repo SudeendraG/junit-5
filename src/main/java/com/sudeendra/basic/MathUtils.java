@@ -1,7 +1,7 @@
 package com.sudeendra.basic;
 
 /**
- * @author Sudeendra
+ * @author Sudeendra11
  */
 public class MathUtils {
 
